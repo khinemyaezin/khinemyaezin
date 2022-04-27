@@ -9,7 +9,7 @@
   <a href="https://www.java.com" target="_blank"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain-wordmark.svg" alt="bootstrap"
       width="40" height="40" /> </a>
-  <a href="https://www.java.com" target="_blank"> <img
+  <a href="https://www.spring.io" target="_blank"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-plain-wordmark.svg"
       alt="bootstrap" width="40" height="40" /> </a>
   <a href="https://www.php.net" target="_blank"> <img
