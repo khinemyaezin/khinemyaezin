@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning **React**
 - 📫 How to reach me<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://t.me/khinemyaezin <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://linkedin.com/in/khine-myae-zin-83a4ab17a/
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://linkedin.com/in/khinemyaezin/
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
